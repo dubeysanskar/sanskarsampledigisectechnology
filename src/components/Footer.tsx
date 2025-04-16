@@ -11,15 +11,15 @@ export default function Footer() {
           <div className="space-y-6">
             <h3 className="text-xl font-bold text-white">Registered Address</h3>
             <div className="space-y-4">
-              <h4 className="font-semibold text-white">Digisec Technologies</h4>
+              <h4 className="font-semibold text-white">CodeDev Technologies</h4>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 mt-1 text-blue-400" />
                 <p>62 C, MIG, Sector-100, Noida, 201301</p>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-blue-400" />
-                <a href="mailto:contact@digisectechnologies.com" className="hover:text-white transition-colors">
-                  contact@digisectechnologies.com
+                <a href="mailto:contact@CodeDevtechnologies.com" className="hover:text-white transition-colors">
+                  contact@CodeDevtechnologies.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">
@@ -73,7 +73,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="mt-16 pt-8 border-t border-gray-800 text-center">
-          <p>Copyright © 2024 digisectechnologies. All rights reserved.</p>
+          <p>Copyright © 2024 CodeDevtechnologies. All rights reserved.</p>
         </div>
       </div>
     </footer>
