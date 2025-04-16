@@ -22,7 +22,7 @@ export default function Founder() {
               </blockquote>
               <div className="space-y-2">
                 <h3 className="text-2xl font-bold text-gray-900">Jagdeep Bhardwaj</h3>
-                <p className="text-blue-600">Founder & Director, Digisec Technologies</p>
+                <p className="text-blue-600">Founder & Director, CodeDev Technologies</p>
               </div>
             </div>
           </div>
